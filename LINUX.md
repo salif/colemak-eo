@@ -5,7 +5,7 @@ Put the following text block inside `/usr/share/X11/xkb/symbols/epo`
 ```
 // github.com/salif/colemak-eo
 partial alphanumeric_keys
-xkb_symbols "colemak" {
+xkb_symbols "colemak_eo" {
 
   include "us(colemak)"
 
@@ -28,7 +28,7 @@ Put the following text block inside `/usr/share/X11/xkb/rules/evdev.xml`
 ```
 <variant>
   <configItem>
-    <name>colemak</name>
+    <name>colemak_eo</name>
     <description>Esperanto (Colemak)</description>
   </configItem>
 </variant>
