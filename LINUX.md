@@ -23,6 +23,12 @@ xkb_symbols "colemak_eo" {
 };
 ```
 
+Put the following text block inside `/usr/share/X11/xkb/rules/evdev.lst`
+
+```
+colemak_eo      epo: Esperanto (Colemak)
+```
+
 Put the following text block inside `/usr/share/X11/xkb/rules/evdev.xml`
 
 ```
