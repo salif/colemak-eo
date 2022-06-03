@@ -13,10 +13,9 @@ xkb_symbols "colemak_eo" {
 
   key <AD01> {[ jcircumflex, Jcircumflex, q,            Q          ]};
   key <AD02> {[ scircumflex, Scircumflex, w,            W          ]};
+  key <AD09> {[ ubreve,      Ubreve,      y,            Y          ]};
   key <AD10> {[ gcircumflex, Gcircumflex, semicolon,    colon      ]};
-  key <AD11> {[ ubreve,      Ubreve,      bracketleft,  braceleft  ]};
-  key <AD12> {[ apostrophe,  quotedbl,    bracketright, braceright ]};
-  key <AC11> {[ hcircumflex, Hcircumflex                           ]};
+  key <AC11> {[ hcircumflex, Hcircumflex, apostrophe,   quotedbl   ]};
   key <AB02> {[ ccircumflex, Ccircumflex, x,            X          ]};
 
   include "level3(ralt_switch)"

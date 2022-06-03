@@ -1,4 +1,4 @@
-## Esperanto (Colemak) keyboard layout
+# Esperanto (Colemak) keyboard layout
 
 ![preview esperanto colemak](preview.png)
 
