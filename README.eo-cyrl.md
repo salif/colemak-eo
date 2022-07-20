@@ -1,6 +1,6 @@
 # Esperanto \(Colemak\) клавара аранѓо
 
-Ен алиай лингвой: [English](README.md), [Esperanto](README.eo.md), [Есперанто](README.eo-cyrl.md)
+Ен алиай лингвой: [English](README.md), [Esperanto](README.eo.md), [Есперанто](README.eo-cyrl.md), [𐑧𐑕𐑐𐑧𐑮𐑨𐑵𐑑𐑩](README.eo-shaw.md)
 
 ---
 

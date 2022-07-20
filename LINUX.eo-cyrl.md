@@ -1,6 +1,6 @@
 # Инстали ен Линуксо
 
-Ен алиай лингвой: [English](LINUX.md), [Esperanto](LINUX.eo.md), [Есперанто](LINUX.eo-cyrl.md)
+Ен алиай лингвой: [English](LINUX.md), [Esperanto](LINUX.eo.md), [Есперанто](LINUX.eo-cyrl.md), [𐑧𐑕𐑐𐑧𐑮𐑨𐑵𐑑𐑩](LINUX.eo-shaw.md)
 
 ---
 
