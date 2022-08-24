@@ -18,8 +18,8 @@ xkb_symbols "colemak_eo" {
   key <AD01> {[ jcircumflex, Jcircumflex, q,            Q          ]};
   key <AD02> {[ scircumflex, Scircumflex, w,            W          ]};
   key <AD09> {[ ubreve,      Ubreve,      y,            Y          ]};
-  key <AD10> {[ gcircumflex, Gcircumflex, semicolon,    colon      ]};
-  key <AC11> {[ hcircumflex, Hcircumflex, apostrophe,   quotedbl   ]};
+  key <AD11> {[ gcircumflex, Gcircumflex, bracketleft,  braceleft  ]};
+  key <AD12> {[ hcircumflex, Hcircumflex, bracketright, braceright ]};
   key <AB02> {[ ccircumflex, Ccircumflex, x,            X          ]};
 
   include "level3(ralt_switch)"
@@ -40,3 +40,5 @@ xkb_symbols "colemak_eo" {
 𐑐𐑩𐑕𐑑𐑧 𐑨𐑤𐑛𐑩𐑵𐑪 `Esperanto (Colemak)` 𐑐𐑧𐑮 𐑤𐑨 𐑨𐑜𐑩𐑮𐑛𐑩𐑢 𐑛𐑧 𐑝𐑦𐑨 𐑓𐑧𐑵𐑧𐑕𐑑𐑮𐑦𐑤𐑩 \(DE\)
 
 𐑕𐑧 𐑫𐑨𐑤𐑕𐑪𐑒𐑔𐑧𐑕𐑧, 𐑕𐑧𐑵𐑛𐑪 𐑐𐑮𐑩𐑚𐑤𐑧𐑫𐑩𐑵 \(issue\) 𐑨𐑤 𐑗𐑦 𐑑𐑦𐑪 𐑜𐑦𐑑 𐑛𐑧𐑐𐑩𐑵𐑧𐑢𐑩 𐑗𐑧 [GitHub.com](https://github.com/salif/colemak-eo/issues/new/choose)
+
+[𐑫𐑨𐑤𐑨𐑵𐑑𐑨𐑘𐑧𐑵](./README.eo-shaw.md)

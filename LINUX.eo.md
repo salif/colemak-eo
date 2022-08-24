@@ -18,8 +18,8 @@ xkb_symbols "colemak_eo" {
   key <AD01> {[ jcircumflex, Jcircumflex, q,            Q          ]};
   key <AD02> {[ scircumflex, Scircumflex, w,            W          ]};
   key <AD09> {[ ubreve,      Ubreve,      y,            Y          ]};
-  key <AD10> {[ gcircumflex, Gcircumflex, semicolon,    colon      ]};
-  key <AC11> {[ hcircumflex, Hcircumflex, apostrophe,   quotedbl   ]};
+  key <AD11> {[ gcircumflex, Gcircumflex, bracketleft,  braceleft  ]};
+  key <AD12> {[ hcircumflex, Hcircumflex, bracketright, braceright ]};
   key <AB02> {[ ccircumflex, Ccircumflex, x,            X          ]};
 
   include "level3(ralt_switch)"
@@ -40,3 +40,5 @@ Malfermu `/usr/share/X11/xkb/rules/evdev.xml` kaj enigu la sekvan tekstoblokon p
 Poste aldonu `Esperanto (Colemak)` per la agordoj de via fenestrilo \(DE\)
 
 Se malsukcese, sendu problemon \(issue\) al ĉi tiu git deponejo ĉe [GitHub.com](https://github.com/salif/colemak-eo/issues/new/choose)
+
+[Malantaŭen](./README.eo.md)
