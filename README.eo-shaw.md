@@ -8,4 +8,4 @@
 
 ## 𐑦𐑵𐑕𐑑𐑨𐑤𐑦 𐑧𐑵 𐑤𐑦𐑵𐑪𐑒𐑕𐑩
 
-𐑝𐑦𐑛𐑪 [LINUX.eo-shaw.md](./LINUX.eo-shaw.md)
+𐑝𐑦𐑛𐑪 𐑵𐑨 [LINUX.eo-shaw.md](./LINUX.eo-shaw.md)

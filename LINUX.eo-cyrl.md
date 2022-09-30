@@ -4,7 +4,7 @@
 
 ---
 
-Малферму `/usr/share/X11/xkb/symbols/epo` кай алдону ла секван текстоблокон ал ла фино де ла досиеро
+Малферму на `/usr/share/X11/xkb/symbols/epo` кай алдону ла секван текстоблокон ал ла фино де ла досиеро
 
 ```
 // github.com/salif/colemak-eo
@@ -26,7 +26,7 @@ xkb_symbols "colemak_eo" {
 };
 ```
 
-Малферму `/usr/share/X11/xkb/rules/evdev.xml` кай енигу ла секван текстоблокон пост ла варианто `Esperanto (legacy)`
+Малферму на `/usr/share/X11/xkb/rules/evdev.xml` кай енигу ла секван текстоблокон пост ла варианто `Esperanto (legacy)`
 
 ```
 <variant>
@@ -37,7 +37,7 @@ xkb_symbols "colemak_eo" {
 </variant>
 ```
 
-Посте алдону `Esperanto (Colemak)` пер ла агордой де виа фенестрило \(DE\)
+Посте алдону на `Esperanto (Colemak)` пер ла агордой де виа фенестрило \(DE\)
 
 Се малсукцесе, сенду проблемон \(issue\) ал чи тиу гит депонейо че [GitHub.com](https://github.com/salif/colemak-eo/issues/new/choose)
 

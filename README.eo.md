@@ -8,4 +8,4 @@ En aliaj lingvoj: [English](README.md), [Esperanto](README.eo.md), [Еспера
 
 ## Instali en Linukso
 
-Vidu [LINUX.eo.md](./LINUX.eo.md)
+Vidu na [LINUX.eo.md](./LINUX.eo.md)

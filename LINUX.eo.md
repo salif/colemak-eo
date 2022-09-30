@@ -4,7 +4,7 @@ En aliaj lingvoj: [English](LINUX.md), [Esperanto](LINUX.eo.md), [Есперан
 
 ---
 
-Malfermu `/usr/share/X11/xkb/symbols/epo` kaj aldonu la sekvan tekstoblokon al la fino de la dosiero
+Malfermu na `/usr/share/X11/xkb/symbols/epo` kaj aldonu la sekvan tekstoblokon al la fino de la dosiero
 
 ```
 // github.com/salif/colemak-eo
@@ -26,7 +26,7 @@ xkb_symbols "colemak_eo" {
 };
 ```
 
-Malfermu `/usr/share/X11/xkb/rules/evdev.xml` kaj enigu la sekvan tekstoblokon post la varianto `Esperanto (legacy)`
+Malfermu na `/usr/share/X11/xkb/rules/evdev.xml` kaj enigu la sekvan tekstoblokon post la varianto `Esperanto (legacy)`
 
 ```
 <variant>
@@ -37,7 +37,7 @@ Malfermu `/usr/share/X11/xkb/rules/evdev.xml` kaj enigu la sekvan tekstoblokon p
 </variant>
 ```
 
-Poste aldonu `Esperanto (Colemak)` per la agordoj de via fenestrilo \(DE\)
+Poste aldonu na `Esperanto (Colemak)` per la agordoj de via fenestrilo \(DE\)
 
 Se malsukcese, sendu problemon \(issue\) al ĉi tiu git deponejo ĉe [GitHub.com](https://github.com/salif/colemak-eo/issues/new/choose)
 

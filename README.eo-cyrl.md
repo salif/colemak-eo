@@ -8,4 +8,4 @@
 
 ## Инстали ен Линуксо
 
-Виду [LINUX.eo-cyrl.md](./LINUX.eo-cyrl.md)
+Виду на [LINUX.eo-cyrl.md](./LINUX.eo-cyrl.md)
