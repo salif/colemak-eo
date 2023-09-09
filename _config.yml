@@ -1,2 +1,9 @@
+plugins:
+  - jekyll-sitemap
+
 name: Esperanto (Colemak) keyboard layout
 title: null
+
+author:
+  name: Salif Mehmed
+  url: https://salif.eu
