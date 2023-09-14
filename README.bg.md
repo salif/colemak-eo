@@ -49,7 +49,7 @@ points="15,19 21,19 23,23 18,11 13,23 " /></svg> : [english](README.md), [espera
 
 ## Копиране
 
-Вижте файла [LICENSE](./LICENSE).
+Вижте файла [LICENSE.txt](./LICENSE.txt).
 
 ---
 

@@ -11,7 +11,7 @@ points="15,19 21,19 23,23 18,11 13,23 " /></svg> : [english](LINUX.md), [esperan
 
 Pertama, buat cadangan beberapa file. Jalankan perintah ini:
 
-```shell
+```bash
 cp /usr/share/X11/xkb/symbols/epo /usr/share/X11/xkb/symbols/epo.old
 cp /usr/share/X11/xkb/rules/evdev.xml /usr/share/X11/xkb/rules/evdev.xml.old
 ```
@@ -55,7 +55,7 @@ Lalu tambahkan `Esperanto (Colemak)` melalui pengaturan lingkungan desktop Anda.
 
 Untuk menghapus instalasi, batalkan semua yang Anda lakukan atau pulihkan file lama:
 
-```
+```bash
 mv /usr/share/X11/xkb/symbols/epo.old /usr/share/X11/xkb/symbols/epo
 mv /usr/share/X11/xkb/rules/evdev.xml.old /usr/share/X11/xkb/rules/evdev.xml
 ```

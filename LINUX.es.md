@@ -11,7 +11,7 @@ points="15,19 21,19 23,23 18,11 13,23 " /></svg> : [english](LINUX.md), [esperan
 
 Primero, haga una copia de seguridad de algunos archivos. Ejecute estos comandos:
 
-```shell
+```bash
 cp /usr/share/X11/xkb/symbols/epo /usr/share/X11/xkb/symbols/epo.old
 cp /usr/share/X11/xkb/rules/evdev.xml /usr/share/X11/xkb/rules/evdev.xml.old
 ```
@@ -55,7 +55,7 @@ Luego añade `Esperanto (Colemak)` a través de la configuración de su entorno 
 
 Para desinstalar, deshaga todo lo que hizo o restaure los archivos antiguos:
 
-```
+```bash
 mv /usr/share/X11/xkb/symbols/epo.old /usr/share/X11/xkb/symbols/epo
 mv /usr/share/X11/xkb/rules/evdev.xml.old /usr/share/X11/xkb/rules/evdev.xml
 ```

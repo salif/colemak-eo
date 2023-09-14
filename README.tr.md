@@ -49,7 +49,7 @@ Geliştirmeyi açıklayan yeni bir görev oluşturun.
 
 ## Kopyalanıyor
 
-Dosyaya bakın [LICENSE](./LICENSE).
+Dosyaya bakın [LICENSE.txt](./LICENSE.txt).
 
 ---
 

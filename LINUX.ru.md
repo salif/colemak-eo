@@ -11,7 +11,7 @@ points="15,19 21,19 23,23 18,11 13,23 " /></svg> : [english](LINUX.md), [esperan
 
 Сначала сделайте резервную копию некоторых файлов. Запустите эти команды:
 
-```shell
+```bash
 cp /usr/share/X11/xkb/symbols/epo /usr/share/X11/xkb/symbols/epo.old
 cp /usr/share/X11/xkb/rules/evdev.xml /usr/share/X11/xkb/rules/evdev.xml.old
 ```
@@ -55,7 +55,7 @@ xkb_symbols "colemak_eo" {
 
 Чтобы удалить, отмените все, что вы сделали, или восстановите старые файлы:
 
-```
+```bash
 mv /usr/share/X11/xkb/symbols/epo.old /usr/share/X11/xkb/symbols/epo
 mv /usr/share/X11/xkb/rules/evdev.xml.old /usr/share/X11/xkb/rules/evdev.xml
 ```

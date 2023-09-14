@@ -49,7 +49,7 @@ Acepto solicitudes de extracción en `Github` y `Codeberg`.
 
 ## Proceso de copiar
 
-Ver ficha [LICENSE](./LICENSE).
+Ver ficha [LICENSE.txt](./LICENSE.txt).
 
 ---
 

@@ -49,7 +49,7 @@ I accept pull requests at `Github` and `Codeberg`.
 
 ## Copying
 
-See file [LICENSE](./LICENSE).
+See file [LICENSE.txt](./LICENSE.txt).
 
 ---
 

@@ -11,7 +11,7 @@ points="15,19 21,19 23,23 18,11 13,23 " /></svg> : [english](LINUX.md), [esperan
 
 Öncelikle bazı dosyaları yedekleyin. Bu komutları çalıştırın:
 
-```shell
+```bash
 cp /usr/share/X11/xkb/symbols/epo /usr/share/X11/xkb/symbols/epo.old
 cp /usr/share/X11/xkb/rules/evdev.xml /usr/share/X11/xkb/rules/evdev.xml.old
 ```
@@ -55,7 +55,7 @@ Sonra Ekle `Esperanto (Colemak)` masaüstü ortamınızın ayarları aracılığ
 
 Kaldırmak için yaptığınız her şeyi geri alın veya eski dosyaları geri yükleyin:
 
-```
+```bash
 mv /usr/share/X11/xkb/symbols/epo.old /usr/share/X11/xkb/symbols/epo
 mv /usr/share/X11/xkb/rules/evdev.xml.old /usr/share/X11/xkb/rules/evdev.xml
 ```

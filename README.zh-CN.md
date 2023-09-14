@@ -49,7 +49,7 @@ points="15,19 21,19 23,23 18,11 13,23 " /></svg> : [english](README.md), [espera
 
 ## 复制
 
-参见文件 [LICENSE](./LICENSE).
+参见文件 [LICENSE.txt](./LICENSE.txt).
 
 ---
 

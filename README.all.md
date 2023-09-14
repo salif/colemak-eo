@@ -44,7 +44,7 @@
 
 ## „:Copying“
 
-„:See file“ [LICENSE](./LICENSE).
+„:See file“ [LICENSE.txt](./LICENSE.txt).
 
 ---
 

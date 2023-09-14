@@ -49,7 +49,7 @@ points="15,19 21,19 23,23 18,11 13,23 " /></svg> : [english](README.md), [espera
 
 ## النسخ
 
-انظر الملف [LICENSE](./LICENSE).
+انظر الملف [LICENSE.txt](./LICENSE.txt).
 
 ---
 

@@ -49,7 +49,7 @@ Saya menerima permintaan penarikan di `Github` dan `Codeberg`.
 
 ## Penyalinan
 
-Lihat berkas [LICENSE](./LICENSE).
+Lihat berkas [LICENSE.txt](./LICENSE.txt).
 
 ---
 

@@ -49,7 +49,7 @@ Mi akceptas tirpetojn ĉe `Github` kaj `Codeberg`.
 
 ## Kopiado
 
-Vidu dosieron [LICENSE](./LICENSE).
+Vidu dosieron [LICENSE.txt](./LICENSE.txt).
 
 ---
 
