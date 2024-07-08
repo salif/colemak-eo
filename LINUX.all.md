@@ -1,6 +1,6 @@
-# „:Install on Linux“
+# „:Installing on Linux“
 
-„:---“
+„:Translation:“ „:---“
 
 ---
 
@@ -33,7 +33,7 @@ xkb_symbols "colemak_eo" {
 };
 ```
 
-„:Open file“ `/usr/share/X11/xkb/rules/evdev.xml` „:and insert the following text block after the“ `Esperanto (legacy)` variant.
+„:Open file“ `/usr/share/X11/xkb/rules/evdev.xml` „:and insert the following text block after the variant“ `Esperanto (legacy)`.
 
 ```xml
 <variant>

@@ -1,50 +1,31 @@
 # „:Esperanto Colemak keyboard layout“
 
-„:---“
-
----
+„:Translation:“ „:---“
 
 ![„:Preview the Esperanto Colemak“](./media/preview.png)
 
-„:This is my attempt to make a keyboard layout transliterated from Colemak into Esperanto“.
-
----
+„:This is my attempt to make a keyboard layout based on Colemak, adapted for the Esperanto language“.
 
 ## „:Links“
 
-* „:Homepage“: [salif.github.io/colemak-eo](https://salif.github.io/colemak-eo/)
-* „:Source code“: [github.com/salif/colemak-eo](https://github.com/salif/colemak-eo)
-* „:Source code“: [codeberg.org/salif/colemak-eo](https://codeberg.org/salif/colemak-eo)
-* „:Tasks“ (Github): [github.com/salif/colemak-eo/issues](https://github.com/salif/colemak-eo/issues)
-* „:Tasks“ (Codeberg): [codeberg.org/salif/colemak-eo/issues](https://codeberg.org/salif/colemak-eo/issues)
-* „:Discuss“ (Github): [github.com/salif/colemak-eo/discussions](https://github.com/salif/colemak-eo/discussions)
-* „:Chat“ (Element/Matrix): [#salif-colemak:mozilla.org](https://matrix.to/#/#salif-colemak:mozilla.org)
+* [„:Homepage“](https://salif.github.io/colemak-eo/)
+* [„:Discussions“ (Github)](https://github.com/salif/colemak-eo/discussions)
+* [„:Chat room“ (Element/Matrix)](https://matrix.to/#/#salif-colemak:mozilla.org)
+* [„:Source code“ (Github)](https://github.com/salif/colemak-eo)
+* [„:Source code“ (Codeberg)](https://codeberg.org/salif/colemak-eo)
 
 ## „:Installing“
 
-### „:Install on Linux“
+### „:Installing on Linux“
 
-„:See page“ [LINUX„:--“](./LINUX„:--“)
+„:See this page:“ [LINUX„:--“](./LINUX„:--“)
 
 ## „:Contributing“
 
-### „:Report a bug“
+„:If you find a bug or have an improvement in mind, feel free to share it on [Github] or [Codeberg], or submit a pull request on Github or Codeberg.“
 
-„:Check the list of tasks to see if your bug has already been reported“.
-
-„:If it hasn't, create a new task“ (issue).
-
-### „:Suggest an enhancement“
-
-„:Create a new task which describes the enhancement“.
-
-### „:Code“
-
-„:I accept pull requests at `Github` and `Codeberg`“.
-
-## „:Copying“
-
-„:See file“ [LICENSE.txt](./LICENSE.txt).
+[Github]: https://github.com/salif/colemak-eo/issues
+[Codeberg]: https://codeberg.org/salif/colemak-eo/issues
 
 ---
 
