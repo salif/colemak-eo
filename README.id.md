@@ -9,10 +9,9 @@ Ini adalah upaya saya membuat layout keyboard berdasarkan Colemak yang diadaptas
 ## Tautan
 
 * [Beranda](https://salif.github.io/colemak-eo/)
+* [Kode sumber](https://codeberg.org/salif/colemak-eo)
 * [Diskusi (Github)](https://github.com/salif/colemak-eo/discussions)
 * [Ruang obrolan (Element/Matrix)](https://matrix.to/#/#salif-colemak:mozilla.org)
-* [Kode sumber (Github)](https://github.com/salif/colemak-eo)
-* [Kode sumber (Codeberg)](https://codeberg.org/salif/colemak-eo)
 
 ## Menginstal
 
@@ -20,12 +19,22 @@ Ini adalah upaya saya membuat layout keyboard berdasarkan Colemak yang diadaptas
 
 Lihat halaman ini : [LINUX.id.md](./LINUX.id.md)
 
+### Menginstal di sistem operasi lain
+
+Saya tidak dapat membantu Anda, coba cari sendiri cara untuk menginstalnya di OS Anda.
+
 ## Berkontribusi
 
-Jika Anda menemukan bug atau ingin melakukan perbaikan, silakan membagikannya di [Github] atau [Codeberg], atau kirimkan permintaan penarikan di Github atau Codeberg.
+Jika Anda menemukan bug atau ingin menyarankan perbaikan, silakan membagikannya di [Codeberg] atau [Github], atau kirimkan permintaan penarikan.
 
-[Github]: https://github.com/salif/colemak-eo/issues
+[Github]: https://github.com/salif/colemak-eo/discussions
 [Codeberg]: https://codeberg.org/salif/colemak-eo/issues
+
+## Tata letak keyboard lainnya
+
+* [Untuk bahasa Rusia](https://salif.github.io/colemak-ru/)
+* [Untuk bahasa Turki](https://salif.github.io/colemak-tr/)
+* [Untuk bahasa Bulgaria](https://salif.github.io/colemak-bg/)
 
 ---
 

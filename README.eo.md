@@ -9,10 +9,9 @@ Jen mia provo fari klavaran aranĝon bazitan sur Colemak, adaptitan por la lingv
 ## Ligiloj
 
 * [Hejmpaĝo](https://salif.github.io/colemak-eo/)
+* [Fontkodo](https://codeberg.org/salif/colemak-eo)
 * [Diskutoj (Github)](https://github.com/salif/colemak-eo/discussions)
 * [Babilejo (Element/Matrix)](https://matrix.to/#/#salif-colemak:mozilla.org)
-* [Fontkodo (Github)](https://github.com/salif/colemak-eo)
-* [Fontkodo (Codeberg)](https://codeberg.org/salif/colemak-eo)
 
 ## Instalado
 
@@ -20,12 +19,22 @@ Jen mia provo fari klavaran aranĝon bazitan sur Colemak, adaptitan por la lingv
 
 Vidu ĉi tiun paĝon: [LINUX.eo.md](./LINUX.eo.md)
 
+### Instalado sur aliaj operaciumoj
+
+Mi ne povas helpi vin, provu mem trovi manieron instali en via OS.
+
 ## Kontribuante
 
-Se vi trovas cimon aŭ havas plibonigon en menso, bonvolu dividi ĝin sur [Github] aŭ [Codeberg], aŭ sendi tiran peton sur Github aŭ Codeberg
+Se vi trovas cimon aŭ volas sugesti plibonigon, bonvolu dividi ĝin ĉe [Codeberg] aŭ [Github], aŭ sendi tiri peton.
 
-[Github]: https://github.com/salif/colemak-eo/issues
+[Github]: https://github.com/salif/colemak-eo/discussions
 [Codeberg]: https://codeberg.org/salif/colemak-eo/issues
+
+## Aliaj klavaraj aranĝoj
+
+* [Por rusa lingvo](https://salif.github.io/colemak-ru/)
+* [Por turka lingvo](https://salif.github.io/colemak-tr/)
+* [Por bulgara lingvo](https://salif.github.io/colemak-bg/)
 
 ---
 
