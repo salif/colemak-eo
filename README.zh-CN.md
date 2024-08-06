@@ -32,7 +32,7 @@
 
 ## 其他键盘布局
 
-* [对于俄语](https://salif.github.io/colemak-ru/)
+* [对于世界语沙维亚字母表](https://salif.github.io/shaw-eo/)
 * [对于土耳其语](https://salif.github.io/colemak-tr/)
 * [对于保加利亚语](https://salif.github.io/colemak-bg/)
 

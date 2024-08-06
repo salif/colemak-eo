@@ -32,7 +32,7 @@ Se você encontrar um bug ou quiser sugerir uma melhoria, sinta-se à vontade pa
 
 ## Outros layouts de teclado
 
-* [Para o idioma Russo](https://salif.github.io/colemak-ru/)
+* [Para o alfabeto Esperanto Shavian](https://salif.github.io/shaw-eo/)
 * [Para o idioma turco](https://salif.github.io/colemak-tr/)
 * [Para língua búlgara](https://salif.github.io/colemak-bg/)
 

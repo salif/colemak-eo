@@ -32,7 +32,7 @@
 
 ## تخطيطات لوحة المفاتيح الأخرى
 
-* [للغة الروسية](https://salif.github.io/colemak-ru/)
+* [للأبجدية الاسبرانتو الشافية](https://salif.github.io/shaw-eo/)
 * [للغة التركية](https://salif.github.io/colemak-tr/)
 * [للغة البلغارية](https://salif.github.io/colemak-bg/)
 

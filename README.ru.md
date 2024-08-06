@@ -32,7 +32,7 @@
 
 ## Другие раскладки клавиатуры
 
-* [Для русского языка](https://salif.github.io/colemak-ru/)
+* [Для эсперанто-шавианского алфавита](https://salif.github.io/shaw-eo/)
 * [Для турецкого языка](https://salif.github.io/colemak-tr/)
 * [Для болгарского языка](https://salif.github.io/colemak-bg/)
 

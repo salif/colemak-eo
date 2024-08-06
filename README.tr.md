@@ -32,7 +32,7 @@ Bir hata bulursanız veya bir iyileştirme önermek isterseniz, bunu [Codeberg] 
 
 ## Diğer klavye düzenleri
 
-* [Rus dili için](https://salif.github.io/colemak-ru/)
+* [Esperanto Şavi alfabesi için](https://salif.github.io/shaw-eo/)
 * [Türkçe dili için](https://salif.github.io/colemak-tr/)
 * [Bulgar dili için](https://salif.github.io/colemak-bg/)
 

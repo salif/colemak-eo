@@ -32,7 +32,7 @@ Jika Anda menemukan bug atau ingin menyarankan perbaikan, silakan membagikannya 
 
 ## Tata letak keyboard lainnya
 
-* [Untuk bahasa Rusia](https://salif.github.io/colemak-ru/)
+* [Untuk alfabet Esperanto Shavian](https://salif.github.io/shaw-eo/)
 * [Untuk bahasa Turki](https://salif.github.io/colemak-tr/)
 * [Untuk bahasa Bulgaria](https://salif.github.io/colemak-bg/)
 
