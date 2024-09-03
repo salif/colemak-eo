@@ -35,7 +35,3 @@
 * [„:For Esperanto Shavian alphabet“](https://salif.github.io/shaw-eo/)
 * [„:For Turkish language“](https://salif.github.io/colemak-tr/)
 * [„:For Bulgarian language“](https://salif.github.io/colemak-bg/)
-
----
-
-„:This page contains automatically translated text“

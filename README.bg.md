@@ -35,7 +35,3 @@
 * [За шавианската азбука](https://salif.github.io/shaw-eo/)
 * [За турски език](https://salif.github.io/colemak-tr/)
 * [За български език](https://salif.github.io/colemak-bg/)
-
----
-
-Тази страница съдържа автоматично преведен текст

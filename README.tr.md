@@ -35,7 +35,3 @@ Bir hata bulursanız veya bir iyileştirme önermek isterseniz, bunu [Codeberg] 
 * [Esperanto Şavi alfabesi için](https://salif.github.io/shaw-eo/)
 * [Türkçe dili için](https://salif.github.io/colemak-tr/)
 * [Bulgar dili için](https://salif.github.io/colemak-bg/)
-
----
-
-Bu sayfa otomatik olarak çevrilmiş metin içermektedir

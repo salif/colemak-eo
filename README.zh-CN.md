@@ -35,7 +35,3 @@
 * [对于世界语沙维亚字母表](https://salif.github.io/shaw-eo/)
 * [对于土耳其语](https://salif.github.io/colemak-tr/)
 * [对于保加利亚语](https://salif.github.io/colemak-bg/)
-
----
-
-此页面包含自动翻译的文本
